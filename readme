@@ -1,0 +1,30 @@
+🖍️ Live Handwritten Digit Recognition App
+
+This repository contains the source code for a **Live Handwritten Digit Recognition App** built using **React.js** and **TensorFlow.js**. The app enables users to draw digits on a web-based canvas, predicts the drawn digit in real-time, and displays the confidence score for the prediction.
+
+---
+
+📜 Project Overview
+
+The app utilizes a pre-trained **MNIST** model to recognize handwritten digits drawn on the canvas. Users can:
+- Draw a digit on the canvas.
+- See the predicted digit and its confidence score in real-time.
+- Clear the canvas for new input.
+
+---
+
+🔧 Tech Stack
+
+- **Frontend**: React.js
+- **Machine Learning**: TensorFlow.js
+- **Dataset**: MNIST (handwritten digits)
+
+---
+
+🚀 Features
+
+1. **Live Prediction**: Real-time recognition of digits drawn on the canvas.
+2. **Confidence Score**: Displays a probability score for the prediction.
+3. **Canvas Reset**: A button to clear the canvas for a new drawing.
+4. **Interactive UI**: Simple and user-friendly design.
+
